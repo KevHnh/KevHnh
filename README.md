@@ -8,10 +8,8 @@ I'm currently focusing on Aplican, a job hunting companion. (Check it out: https
 
 ## 🚀 My Skills
 
-- **Languages**: JavaScript, Python, C++
-- **Frameworks**: React.js
-- **Databases**: MongoDB, mySQL
-- **Other**: [Additional Skill #1], [Additional Skill #2], [Additional Skill #3]
+- **Frontend**: JavaScript (ES5 and ES6), TypeScript, React, HTML5, CSS3, MUI, Flutter
+- **Backend**: Python, C++, Node.js, Express, Axios, MongoDB, MySQL, Firebase
 
 ## 📫 Let's Connect
 
