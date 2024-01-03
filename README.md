@@ -18,6 +18,6 @@ I'm always open to new opportunities, collaborations, and networking. Connect wi
 - Website: https://kevinhinh.netlify.app
 - LinkedIn: https://linkedin.com/in/kevin-hinh
 - Twitter: https://twitter.com/KevHinh
-- Email: kevinhinh9@gmail.com
+- Email: kevinhinh19@gmail.com
 
 Feel free to reach out if you have any questions or just want to say hi. I'd love to chat!
