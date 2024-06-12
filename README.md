@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer who loves to
 
 ## 🔭 What I'm Currently Working On
 
-I'm currently focusing on Aplican, a job hunting companion. (Check it out: https://aplican.co)
+I'm currently focusing on Affpaca, a directory for affiliate programs. (Check it out: https://affpaca.com)
 
 ## 🚀 My Skills
 
